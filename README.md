@@ -1,4 +1,5 @@
 ## Lightweight, Efficient and Stable DRL Implementation Using PyTorch 
+## 量化金融自动交易的深度强化学习库。哥大开源“FinRL”
 
 [![Downloads](https://pepy.tech/badge/elegantrl)](https://pepy.tech/project/elegantrl)
 [![Downloads](https://pepy.tech/badge/elegantrl/week)](https://pepy.tech/project/elegantrl)
